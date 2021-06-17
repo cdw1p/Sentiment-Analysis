@@ -1,0 +1,26 @@
+{
+  "name": "sentiment-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/Sentiment-Analysis.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/Sentiment-Analysis/issues"
+  },
+  "homepage": "https://github.com/cdw1p/Sentiment-Analysis#readme",
+  "dependencies": {
+    "apos-to-lex-form": "^1.0.5",
+    "express": "^4.17.1",
+    "natural": "^5.0.3",
+    "spelling-corrector": "^3.0.0",
+    "stopword": "^1.0.7"
+  }
+}
